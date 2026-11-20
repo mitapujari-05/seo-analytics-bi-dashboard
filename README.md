@@ -1,4 +1,4 @@
-# seo-analytics-bi-dashboard
+
 # SEO Analytics & Business Intelligence Dashboard
 
 An interactive business intelligence dashboard developed using Python, Streamlit, and Plotly to analyze website traffic, user engagement, and behavioural patterns.
